@@ -1,7 +1,7 @@
 spec = Gem::Specification.new do |s|
   s.name = "anemone"
-  s.version = "0.7.2"
-  s.author = "Chris Kite"
+  s.version = "0.7.5"
+  s.author = "Yiling Cao"
   s.homepage = "http://anemone.rubyforge.org"
   s.rubyforge_project = "anemone"
   s.platform = Gem::Platform::RUBY
